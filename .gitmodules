@@ -1,0 +1,9 @@
+[submodule "paradigmas23_lab1"]
+	path = paradigmas23_lab1
+	url = git@github.com:helcsnewsxd/paradigmas23_lab1.git
+[submodule "paradigmas23_lab2"]
+	path = paradigmas23_lab2
+	url = git@github.com:helcsnewsxd/paradigmas23_lab2.git
+[submodule "paradigmas23_lab3"]
+	path = paradigmas23_lab3
+	url = git@github.com:helcsnewsxd/paradigmas23_lab3.git
