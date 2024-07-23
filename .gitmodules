@@ -1,9 +1,9 @@
-[submodule "paradigmas23_lab1"]
-	path = paradigmas23_lab1
-	url = git@github.com:helcsnewsxd/paradigmas23_lab1.git
-[submodule "paradigmas23_lab2"]
-	path = paradigmas23_lab2
-	url = git@github.com:helcsnewsxd/paradigmas23_lab2.git
-[submodule "paradigmas23_lab3"]
-	path = paradigmas23_lab3
-	url = git@github.com:helcsnewsxd/paradigmas23_lab3.git
+[submodule "lab1"]
+	path = lab1
+	url = https://github.com/helcsnewsxd/famaf-computer_science-programming_paradigms-lab1
+[submodule "lab2"]
+	path = lab2
+	url = https://github.com/helcsnewsxd/famaf-computer_science-programming_paradigms-lab2
+[submodule "lab3"]
+	path = lab3
+	url = https://github.com/helcsnewsxd/famaf-computer_science-programming_paradigms-lab3
